@@ -1,1 +1,1 @@
-export let message = 'ES6 Modules';
+export let message = 'ES6 Functions';
