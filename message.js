@@ -1,3 +1,3 @@
 export let message = 'ES6 Functions';
-export let hello = 'html';
+export let hello = 'TypeScript';
 
